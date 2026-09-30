@@ -18,3 +18,13 @@ The room-filter example is fictional. Replace it if it does not match your proje
 Update the README before the final commit. Record the commit identifier and the README permalink in the approved submission record after creating the commit. Saving that identifier inside the same README would create a different commit.
 
 [Submission acceptance guide](https://info.stavleak.com/en/guides/hackathon-submission-acceptance-checklist) · [Hackathon rules](https://info.stavleak.com/en/guides/pravila-hakatona) · [AI demo check](https://info.stavleak.com/en/guides/proverka-ai-prototipa-do-pitcha)
+
+## Русский: передача проекта жюри
+
+Выберите [русский шаблон](README.ru.md), скопируйте его в проект и заполните только то, что проверили. Укажите один пользовательский сценарий, подготовку, безопасные входные данные, ожидаемый результат, сброс, доступ жюри и ограничения. Попросите человека вне разработки пройти шаги самостоятельно. Шаблон не является готовым приложением и не подтверждает конкурсную оценку.
+
+Версию коммита фиксируйте в записи сдачи после создания коммита: вставка его хеша в тот же README создаст другую версию. Закрытые данные и ключи не должны попадать в публичный проект.
+
+## Related resources / Связанные материалы
+
+[Submission fallback / Резервная сдача](https://github.com/Stavleak/hackathon-submission-fallback-kit) · [Organizer runbook / Runbook организатора](https://github.com/Stavleak/hackathon-organizer-kit)
